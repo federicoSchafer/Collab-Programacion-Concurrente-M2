@@ -1,2 +1,2 @@
-# Collab_Programacion_Concurrente
+# Collab Programacion Concurrente M2
 Collab de todos los tps
